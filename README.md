@@ -25,6 +25,20 @@
 | Settlers                      | Early - Late Majority   | 26 SP     |
 | Colonists                     | Laggards                | 26 SU     |
 
+## Notes
+
+Courses moved from Moodle to Canvas were add with the following syntax
+ 
+**GL:101:01 - Introduction to Geology**
+
+was imported as 
+
+**GL:100:00 - Introduction to Geology - BP** 
+
+The BP stands for Blueprint 
+
+More information is needed from Instructure before the blueprint course designation is assigned.
+
 ##  Migration Dates - Information 
 #### Status:  Submitted to Instructure on 2025.06.17
 
