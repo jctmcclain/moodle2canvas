@@ -58,5 +58,5 @@ RESPONSE::    We have the key stakeholders entered into the instance and are add
  
 RESPONSE::  I would like to have the Sales Demo accounts remove from the instance.   We are interested in keeping the model courses.  They have been very useful to our team and faculty early-adopters.
 
-# Training Plan
+[[Training Plan]]
 
