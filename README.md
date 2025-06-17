@@ -1,5 +1,7 @@
 # Training Plan / Schedule
 
+## Status:  Draft 
+
 | Name       | Year - Month   | Description                                     | Who             |
 | ---------- | ---------------| ----------------------------------------------- | --------------- | 
 | Training 1 | 25 - July      | Intro                                           | Instructure     |
