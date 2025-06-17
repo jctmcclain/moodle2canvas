@@ -16,6 +16,8 @@
 
 # Migration Dates
 
+## Status:  Submitted to Instructure on 2025.06.17
+
 ### Key Dates
 
 | Name                    | Value                    | 
