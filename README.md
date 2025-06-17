@@ -16,6 +16,15 @@
 
 # Migration Dates
 
+### Overview 
+
+| Status                        | Diffusion of Innovators | Semester  |
+| ----------------------------- | ----------------------- | --------  |
+| Early Adopters Trail-blazers  | Innovators              | 25 SU     |
+| Pioneers                      | Early Adopters          | 25 FA     |
+| Settlers                      | Early - Late Majority   | 26 SP     |
+| Colonists                     | Laggards                | 26 SU     |
+
 ## Status:  Submitted to Instructure on 2025.06.17
 
 ### Key Dates
