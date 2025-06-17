@@ -14,9 +14,9 @@
 | Training 6 | 26 - May       | Lessons Learned (LL2)                           | Instructure     |
 | Canva Con  | TbD            | Mini CanvaCon w/ local Instructure Canvas Users | TbD             |
 
-# Migration Dates
+# Migration Documentation
 
-### Overview - Adopters
+## Overview - Adopters
 
 | Adopter Status                | Diffusion of Innovators | Semester  |
 | ----------------------------- | ----------------------- | --------  |
@@ -25,7 +25,8 @@
 | Settlers                      | Early - Late Majority   | 26 SP     |
 | Colonists                     | Laggards                | 26 SU     |
 
-## Status:  Submitted to Instructure on 2025.06.17
+##  Migration Dates - Information 
+#### Status:  Submitted to Instructure on 2025.06.17
 
 ### Key Dates
 
