@@ -16,9 +16,9 @@
 
 # Migration Dates
 
-### Overview 
+### Overview - Adopters
 
-| Status                        | Diffusion of Innovators | Semester  |
+| Adopter Status                | Diffusion of Innovators | Semester  |
 | ----------------------------- | ----------------------- | --------  |
 | Early Adopters Trail-blazers  | Innovators              | 25 SU     |
 | Pioneers                      | Early Adopters          | 25 FA     |
