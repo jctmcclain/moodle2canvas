@@ -1,3 +1,17 @@
+# Training Plan / Schedule
+
+| Name       | Year - Month   | Description                                     | Who             |
+| ---------- | ---------------| ----------------------------------------------- | --------------- | 
+| Training 1 | 25 - July      | Intro                                           | Instructure     |
+| Training 2 | 25 - August    | Deep Dive                                       | Instructure     |
+| Check-in   | 25 - September | Collect Faculty Feedback                        | Juniata College |
+| Training 3 | 25 - December  | Lessons Learned (LL1)                           | Instructure     |
+| Training 4 | 26 - January   | Intro + LL Information                          | Instructure     |
+| Training 5 | 26 - February  | Deep Dive + LL Information                      | Instructure     |
+| Check-in   | 26 - April     | Collect Faculty Feedback                        | Juniata College |
+| Training 6 | 26 - May       | Lessons Learned (LL2)                           | Instructure     |
+| Canva Con  | TbD            | Mini CanvaCon w/ local Instructure Canvas Users | TbD             |
+
 # Migration Dates
 
 ### Key Dates
@@ -58,5 +72,5 @@ RESPONSE::    We have the key stakeholders entered into the instance and are add
  
 RESPONSE::  I would like to have the Sales Demo accounts remove from the instance.   We are interested in keeping the model courses.  They have been very useful to our team and faculty early-adopters.
 
-[[Training Plan]]
+
 
