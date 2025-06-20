@@ -13,3 +13,6 @@
 | 24 SU      | Group 3      | backlog |
 | 24 WN      | Group 3      | backlog |
 | 25 SU      | Group 3      | backlog |
+
+
+***Group 1 – Highest priority to Group 3 – lowest***
