@@ -16,6 +16,10 @@
 
 # Migration Documentation
 
+## Course Bulk Migration Plan
+
+* [Course Groups](crsebulkmigration.md)
+
 ## Overview - Adopters
 
 | Adopter Status                | Diffusion of Innovators | Semester  |
