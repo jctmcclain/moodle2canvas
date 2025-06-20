@@ -31,7 +31,7 @@ The BP stands for Blueprint
 
 More information is needed from Instructure before the blueprint course designation is assigned.
 
-##  Migration Dates - Information 
+##  Migration Dates (Milestones) - Information 
 #### Status:  Submitted to Instructure on 2025.06.17
 
 ### Key Dates
