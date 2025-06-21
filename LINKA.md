@@ -1,4 +1,4 @@
-)# 10500
+# 10500
 [SITE](https://moodle.juniata.edu/course/view.php?id=10500)
 [SITE](https://moodle.juniata.edu/course/view.php?id=10501)
 [SITE](https://moodle.juniata.edu/course/view.php?id=10502)
