@@ -1,5 +1,14 @@
 # Migration Documentation
 
+## Speaking Instructure Canvas
+
+| Acronym               | Definition              |  Explanation                                                                                                | 
+| --------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| PC                    | Project Consultant      | Your advocate and primary contact for the life of the account.                                              |
+| SC                    | Strategic Consultant    | Experts who will assist with learning strategy and instructional design                                     |
+| CSM                   | Customer Success Manager| Your advocate and primary contact for the life of the account.                                              |
+| ID                    | Instructional Designer  | Experts who will assist with designing course templates and provide other insights on course content builds |
+
 ## Course Bulk Migration Plan
 * [Course Groups](crsebulkmigration.md)
 
