@@ -1,0 +1,61 @@
+account_id,parent_account_id,name,status
+25-26AY,,2025-2026 Academic Year,active
+UG-Fall Term 2025,25-26AY,UG-Fall Term 2025,active
+UG-Fall Term 2025-AH,UG-Fall Term 2025,Art History,active
+UG-Fall Term 2025-AR,UG-Fall Term 2025,Art,active
+UG-Fall Term 2025-BI,UG-Fall Term 2025,Biology,active
+UG-Fall Term 2025-CEE,UG-Fall Term 2025,Civil and Environment Engineering,active
+UG-Fall Term 2025-CH,UG-Fall Term 2025,Chemistry,active
+UG-Fall Term 2025-CJ,UG-Fall Term 2025,Criminal Justice,active
+UG-Fall Term 2025-CM,UG-Fall Term 2025,Communications,active
+UG-Fall Term 2025-CN,UG-Fall Term 2025,Chinese,active
+UG-Fall Term 2025-CS,UG-Fall Term 2025,Computer Science,active
+UG-Fall Term 2025-CONN,UG-Fall Term 2025,Connections,active
+UG-Fall Term 2025-EB,UG-Fall Term 2025,Economics and Business,active
+UG-Fall Term 2025-ED,UG-Fall Term 2025,Education,active
+UG-Fall Term 2025-EN,UG-Fall Term 2025,English,active
+UG-Fall Term 2025-ESK,UG-Fall Term 2025,Exercise Science and Kinesiology,active
+UG-Fall Term 2025-ESL,UG-Fall Term 2025,English as a Second Language,active
+UG-Fall Term 2025-ESS,UG-Fall Term 2025,Environmental Science and Studies,active
+UG-Fall Term 2025-FR,UG-Fall Term 2025,French,active
+UG-Fall Term 2025-FYC,UG-Fall Term 2025,First-Year Composition,active
+UG-Fall Term 2025-FYE,UG-Fall Term 2025,First-Year Experience,active
+UG-Fall Term 2025-FYF,UG-Fall Term 2025,First-Year Foundations,active
+UG-Fall Term 2025-GE,UG-Fall Term 2025,Local Engagement Seminar,active
+UG-Fall Term 2025-GL,UG-Fall Term 2025,Geology,active
+UG-Fall Term 2025-HP,UG-Fall Term 2025,Health Professions,active
+UG-Fall Term 2025-HS,UG-Fall Term 2025,History,active
+UG-Fall Term 2025-IM,UG-Fall Term 2025,Integrated Media Arts,active
+UG-Fall Term 2025-IT,UG-Fall Term 2025,Information Technology,active
+UG-Fall Term 2025-MA,UG-Fall Term 2025,Math,active
+UG-Fall Term 2025-MM,UG-Fall Term 2025,Museum Studies,active
+UG-Fall Term 2025-MS,UG-Fall Term 2025,Music,active
+UG-Fall Term 2025-MU,UG-Fall Term 2025,Music Applied,active
+UG-Fall Term 2025-ND,UG-Fall Term 2025,Non-Departmental Courses,active
+UG-Fall Term 2025-NEU,UG-Fall Term 2025,Neuroscience,active
+UG-Fall Term 2025-PACS,UG-Fall Term 2025,Peace and Conflict Studies,active
+UG-Fall Term 2025-PC,UG-Fall Term 2025,Physics,active
+UG-Fall Term 2025-PL,UG-Fall Term 2025,Philosophy,active
+UG-Fall Term 2025-PS,UG-Fall Term 2025,Political Science,active
+UG-Fall Term 2025-PY,UG-Fall Term 2025,Psychology,active
+UG-Fall Term 2025-RL,UG-Fall Term 2025,Religion,active
+UG-Fall Term 2025-RP,UG-Fall Term 2025,RP - Religion,active
+UG-Fall Term 2025-SO,UG-Fall Term 2025,Sociology,active
+UG-Fall Term 2025-SP,UG-Fall Term 2025,Spanish,active
+UG-Fall Term 2025-SW,UG-Fall Term 2025,Social Work,active
+UG-Fall Term 2025-TH,UG-Fall Term 2025,Theater,active
+UG-Fall Term 2025-WL,UG-Fall Term 2025,World Language,active
+GR-Fall Term 2025,25-26AY,GR-Fall Term 2025,active
+GR-Fall Term 2025-AC,GR-Fall Term 2025,Accounting,active
+GR-Fall Term 2025-BIN,GR-Fall Term 2025,Bioinformatics,active
+GR-Fall Term 2025-BI,GR-Fall Term 2025,Biology,active
+GR-Fall Term 2025-DS,GR-Fall Term 2025,Data Science,active
+GR-Fall Term 2025-EB,GR-Fall Term 2025,Economics and Business,active
+GR-Fall Term 2025-ED,GR-Fall Term 2025,Masters Special Education ,active
+GR-Fall Term 2025-ENRM,GR-Fall Term 2025,Environment Resource Management,active
+GR-Fall Term 2025-ESS,GR-Fall Term 2025,Environmental Science and Studies,active
+GR-Fall Term 2025-MA,GR-Fall Term 2025,Math,active
+GR-Fall Term 2025-MBA,GR-Fall Term 2025,Masters of Business Administration,active
+GR-Fall Term 2025-MPH,GR-Fall Term 2025,Masters Public Health,active
+GR-Fall Term 2025-ORG,GR-Fall Term 2025,Organizational Management,active
+GR-Fall Term 2025-PS,GR-Fall Term 2025,Political Science,active

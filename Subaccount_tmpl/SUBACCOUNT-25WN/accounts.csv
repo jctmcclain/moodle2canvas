@@ -1,0 +1,61 @@
+account_id,parent_account_id,name,status
+25-26AY,,2025-2026 Academic Year,active
+UG-Winter Term 2025,25-26AY,UG-Winter Term 2025,active
+UG-Winter Term 2025-AH,UG-Winter Term 2025,Art History,active
+UG-Winter Term 2025-AR,UG-Winter Term 2025,Art,active
+UG-Winter Term 2025-BI,UG-Winter Term 2025,Biology,active
+UG-Winter Term 2025-CEE,UG-Winter Term 2025,Civil and Environment Engineering,active
+UG-Winter Term 2025-CH,UG-Winter Term 2025,Chemistry,active
+UG-Winter Term 2025-CJ,UG-Winter Term 2025,Criminal Justice,active
+UG-Winter Term 2025-CM,UG-Winter Term 2025,Communications,active
+UG-Winter Term 2025-CN,UG-Winter Term 2025,Chinese,active
+UG-Winter Term 2025-CS,UG-Winter Term 2025,Computer Science,active
+UG-Winter Term 2025-CONN,UG-Winter Term 2025,Connections,active
+UG-Winter Term 2025-EB,UG-Winter Term 2025,Economics and Business,active
+UG-Winter Term 2025-ED,UG-Winter Term 2025,Education,active
+UG-Winter Term 2025-EN,UG-Winter Term 2025,English,active
+UG-Winter Term 2025-ESK,UG-Winter Term 2025,Exercise Science and Kinesiology,active
+UG-Winter Term 2025-ESL,UG-Winter Term 2025,English as a Second Language,active
+UG-Winter Term 2025-ESS,UG-Winter Term 2025,Environmental Science and Studies,active
+UG-Winter Term 2025-FR,UG-Winter Term 2025,French,active
+UG-Winter Term 2025-FYC,UG-Winter Term 2025,First-Year Composition,active
+UG-Winter Term 2025-FYE,UG-Winter Term 2025,First-Year Experience,active
+UG-Winter Term 2025-FYF,UG-Winter Term 2025,First-Year Foundations,active
+UG-Winter Term 2025-GE,UG-Winter Term 2025,Local Engagement Seminar,active
+UG-Winter Term 2025-GL,UG-Winter Term 2025,Geology,active
+UG-Winter Term 2025-HP,UG-Winter Term 2025,Health Professions,active
+UG-Winter Term 2025-HS,UG-Winter Term 2025,History,active
+UG-Winter Term 2025-IM,UG-Winter Term 2025,Integrated Media Arts,active
+UG-Winter Term 2025-IT,UG-Winter Term 2025,Information Technology,active
+UG-Winter Term 2025-MA,UG-Winter Term 2025,Math,active
+UG-Winter Term 2025-MM,UG-Winter Term 2025,Museum Studies,active
+UG-Winter Term 2025-MS,UG-Winter Term 2025,Music,active
+UG-Winter Term 2025-MU,UG-Winter Term 2025,Music Applied,active
+UG-Winter Term 2025-ND,UG-Winter Term 2025,Non-Departmental Courses,active
+UG-Winter Term 2025-NEU,UG-Winter Term 2025,Neuroscience,active
+UG-Winter Term 2025-PACS,UG-Winter Term 2025,Peace and Conflict Studies,active
+UG-Winter Term 2025-PC,UG-Winter Term 2025,Physics,active
+UG-Winter Term 2025-PL,UG-Winter Term 2025,Philosophy,active
+UG-Winter Term 2025-PS,UG-Winter Term 2025,Political Science,active
+UG-Winter Term 2025-PY,UG-Winter Term 2025,Psychology,active
+UG-Winter Term 2025-RL,UG-Winter Term 2025,Religion,active
+UG-Winter Term 2025-RP,UG-Winter Term 2025,RP - Religion,active
+UG-Winter Term 2025-SO,UG-Winter Term 2025,Sociology,active
+UG-Winter Term 2025-SP,UG-Winter Term 2025,Spanish,active
+UG-Winter Term 2025-SW,UG-Winter Term 2025,Social Work,active
+UG-Winter Term 2025-TH,UG-Winter Term 2025,Theater,active
+UG-Winter Term 2025-WL,UG-Winter Term 2025,World Language,active
+GR-Winter Term 2025,25-26AY,GR-Winter Term 2025,active
+GR-Winter Term 2025-AC,GR-Winter Term 2025,Accounting,active
+GR-Winter Term 2025-BIN,GR-Winter Term 2025,Bioinformatics,active
+GR-Winter Term 2025-BI,GR-Winter Term 2025,Biology,active
+GR-Winter Term 2025-DS,GR-Winter Term 2025,Data Science,active
+GR-Winter Term 2025-EB,GR-Winter Term 2025,Economics and Business,active
+GR-Winter Term 2025-ED,GR-Winter Term 2025,Masters Special Education ,active
+GR-Winter Term 2025-ENRM,GR-Winter Term 2025,Environment Resource Management,active
+GR-Winter Term 2025-ESS,GR-Winter Term 2025,Environmental Science and Studies,active
+GR-Winter Term 2025-MA,GR-Winter Term 2025,Math,active
+GR-Winter Term 2025-MBA,GR-Winter Term 2025,Masters of Business Administration,active
+GR-Winter Term 2025-MPH,GR-Winter Term 2025,Masters Public Health,active
+GR-Winter Term 2025-ORG,GR-Winter Term 2025,Organizational Management,active
+GR-Winter Term 2025-PS,GR-Winter Term 2025,Political Science,active

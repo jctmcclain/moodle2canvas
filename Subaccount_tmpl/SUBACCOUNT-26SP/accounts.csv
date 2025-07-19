@@ -1,0 +1,61 @@
+account_id,parent_account_id,name,status
+25-26AY,,2025-2026 Academic Year,active
+UG-Spring Term 2026,25-26AY,UG-Spring Term 2026,active
+UG-Spring Term 2026-AH,UG-Spring Term 2026,Art History,active
+UG-Spring Term 2026-AR,UG-Spring Term 2026,Art,active
+UG-Spring Term 2026-BI,UG-Spring Term 2026,Biology,active
+UG-Spring Term 2026-CEE,UG-Spring Term 2026,Civil and Environment Engineering,active
+UG-Spring Term 2026-CH,UG-Spring Term 2026,Chemistry,active
+UG-Spring Term 2026-CJ,UG-Spring Term 2026,Criminal Justice,active
+UG-Spring Term 2026-CM,UG-Spring Term 2026,Communications,active
+UG-Spring Term 2026-CN,UG-Spring Term 2026,Chinese,active
+UG-Spring Term 2026-CS,UG-Spring Term 2026,Computer Science,active
+UG-Spring Term 2026-CONN,UG-Spring Term 2026,Connections,active
+UG-Spring Term 2026-EB,UG-Spring Term 2026,Economics and Business,active
+UG-Spring Term 2026-ED,UG-Spring Term 2026,Education,active
+UG-Spring Term 2026-EN,UG-Spring Term 2026,English,active
+UG-Spring Term 2026-ESK,UG-Spring Term 2026,Exercise Science and Kinesiology,active
+UG-Spring Term 2026-ESL,UG-Spring Term 2026,English as a Second Language,active
+UG-Spring Term 2026-ESS,UG-Spring Term 2026,Environmental Science and Studies,active
+UG-Spring Term 2026-FR,UG-Spring Term 2026,French,active
+UG-Spring Term 2026-FYC,UG-Spring Term 2026,First-Year Composition,active
+UG-Spring Term 2026-FYE,UG-Spring Term 2026,First-Year Experience,active
+UG-Spring Term 2026-FYF,UG-Spring Term 2026,First-Year Foundations,active
+UG-Spring Term 2026-GE,UG-Spring Term 2026,Local Engagement Seminar,active
+UG-Spring Term 2026-GL,UG-Spring Term 2026,Geology,active
+UG-Spring Term 2026-HP,UG-Spring Term 2026,Health Professions,active
+UG-Spring Term 2026-HS,UG-Spring Term 2026,History,active
+UG-Spring Term 2026-IM,UG-Spring Term 2026,Integrated Media Arts,active
+UG-Spring Term 2026-IT,UG-Spring Term 2026,Information Technology,active
+UG-Spring Term 2026-MA,UG-Spring Term 2026,Math,active
+UG-Spring Term 2026-MM,UG-Spring Term 2026,Museum Studies,active
+UG-Spring Term 2026-MS,UG-Spring Term 2026,Music,active
+UG-Spring Term 2026-MU,UG-Spring Term 2026,Music Applied,active
+UG-Spring Term 2026-ND,UG-Spring Term 2026,Non-Departmental Courses,active
+UG-Spring Term 2026-NEU,UG-Spring Term 2026,Neuroscience,active
+UG-Spring Term 2026-PACS,UG-Spring Term 2026,Peace and Conflict Studies,active
+UG-Spring Term 2026-PC,UG-Spring Term 2026,Physics,active
+UG-Spring Term 2026-PL,UG-Spring Term 2026,Philosophy,active
+UG-Spring Term 2026-PS,UG-Spring Term 2026,Political Science,active
+UG-Spring Term 2026-PY,UG-Spring Term 2026,Psychology,active
+UG-Spring Term 2026-RL,UG-Spring Term 2026,Religion,active
+UG-Spring Term 2026-RP,UG-Spring Term 2026,RP - Religion,active
+UG-Spring Term 2026-SO,UG-Spring Term 2026,Sociology,active
+UG-Spring Term 2026-SP,UG-Spring Term 2026,Spanish,active
+UG-Spring Term 2026-SW,UG-Spring Term 2026,Social Work,active
+UG-Spring Term 2026-TH,UG-Spring Term 2026,Theater,active
+UG-Spring Term 2026-WL,UG-Spring Term 2026,World Language,active
+GR-Spring Term 2026,25-26AY,GR-Spring Term 2026,active
+GR-Spring Term 2026-AC,GR-Spring Term 2026,Accounting,active
+GR-Spring Term 2026-BIN,GR-Spring Term 2026,Bioinformatics,active
+GR-Spring Term 2026-BI,GR-Spring Term 2026,Biology,active
+GR-Spring Term 2026-DS,GR-Spring Term 2026,Data Science,active
+GR-Spring Term 2026-EB,GR-Spring Term 2026,Economics and Business,active
+GR-Spring Term 2026-ED,GR-Spring Term 2026,Masters Special Education ,active
+GR-Spring Term 2026-ENRM,GR-Spring Term 2026,Environment Resource Management,active
+GR-Spring Term 2026-ESS,GR-Spring Term 2026,Environmental Science and Studies,active
+GR-Spring Term 2026-MA,GR-Spring Term 2026,Math,active
+GR-Spring Term 2026-MBA,GR-Spring Term 2026,Masters of Business Administration,active
+GR-Spring Term 2026-MPH,GR-Spring Term 2026,Masters Public Health,active
+GR-Spring Term 2026-ORG,GR-Spring Term 2026,Organizational Management,active
+GR-Spring Term 2026-PS,GR-Spring Term 2026,Political Science,active

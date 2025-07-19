@@ -1,6 +1,18 @@
 # Sub-Account Structure
 
-## Status:  Draft 
+## Current Structure
+
+| Name    | Value       |
+| ------- | ----------- |
+| Status  | Production  |
+
+* [./Subaccount_tmpl/](Active Sub-Accounts)
+
+## Proposed Structure 
+
+| Name    | Value       |
+| ------- | ----------- |
+| Status  | Draft       |
 
 1. Juniata College
 	- Canvas Demo Courses
