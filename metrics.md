@@ -12,7 +12,7 @@
 
 ## Instructor Counts 
 
-| Date        | Faculty Count  | Student Instructor Count (Teacher)              | Reported by     |
-| ----------- | ---------------| ----------------------------------------------- | --------------- | 
-| 20250728    | 60 active      | 5                                               | TLM             |
-| 20250712    | 37             | 5                                               | TLM             |
+| Date        | Faculty Count                   | Student Instructor Count (Teacher)              | Reported by     |
+| ----------- | --------------------------------| ----------------------------------------------- | --------------- | 
+| 20250728    | 60 (All Fall Faculty Enrolled)  | 5                                               | TLM             |
+| 20250712    | 37                              | 5                                               | TLM             |
