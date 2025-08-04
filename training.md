@@ -1,6 +1,19 @@
 # Training Plan / Schedule
 
-## Status:  Draft 
+## Status:  Production
+
+| Name       | Year - Month   | Description                                                   | Who             | Status    | 
+| ---------- | ---------------| ------------------------------------------------------------- | --------------- | --------- |
+| Training 1 | 25 - July      | Intro                                                         | Instructure     | Completed | 
+| Training 2 | 25 - August 18 | Course Overview, Course Flow, Canvas Content Creation         | Instructure     | Scheduled | 
+| Training 3 | 25 - August 19 | Canvas New Quizzes & Item Banks, Grading and Feedback Rubrics | Instructure     | Scheduled | 
+| Training 4 | 25 - Sept 05   | Canvas Studio, Canvas New Quizzea and Item Banks              | Instructure     | Scheduled | 
+
+* [Canvas Training](https://docs.google.com/spreadsheets/d/1UbMOyQNit66bOLAoCrfogRSd007cUj1Iy_kgGFvBAJg/edit?usp=sharing)
+* [Register Juniata Trainings](https://training.juniata.edu/)
+---
+
+## Status:  Archived 
 
 | Name       | Year - Month   | Description                                     | Who             |
 | ---------- | ---------------| ----------------------------------------------- | --------------- | 
