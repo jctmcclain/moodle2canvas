@@ -8,16 +8,17 @@ ls - m  > COURSEEXPORT.txt
 ```
 which will generate a comma separated file  
 4. Import the txt file into Excel delimited on the ","
-5. Split the Column (Text to Column) based on _ 
-    ***this will separate the key files****
-7. Order the Excel document by the Moodle ID 
-8. Copy the id's into a text file - MOODLE_IDS.txt
-9. Open MOODLE_IDs.txt in vi
-10. run the regex - %s/\n/","/g
-11. remove the trailing ","
-12. run the Moodle Query (below) replacing {ADD_IN_MOODLE_ID_NUMBERS} with the listing ID
-13. Merge into Excel.. 
-14. Finished.. 
+5. Split the Column (Text to Column) based on _
+***this will separate the key files****
+
+6. Order the Excel document by the Moodle ID
+7. Copy the id's into a text file - MOODLE_IDS.txt
+8. Open MOODLE_IDs.txt in vi
+9. run the regex - %s/\n/","/g
+10. remove the trailing ","
+11. run the Moodle Query (below) replacing {ADD_IN_MOODLE_ID_NUMBERS} with the listing ID
+12.  Merge into Excel..
+13.  Finished.. 
 
 ### Mapping Fields for Instructure Canvas
 
