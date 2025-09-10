@@ -8,8 +8,8 @@ ls - m  > COURSEEXPORT.txt
 ```
 which will generate a comma separated file  
 4. Import the txt file into Excel delimited on the ","
-5. Split the Column (Text to Column) based on _
-***this will separate the key files****
+
+5. Split the Column (Text to Column) based on _  ***this will separate the key files****
 
 6. Order the Excel document by the Moodle ID
 7. Copy the id's into a text file - MOODLE_IDS.txt
